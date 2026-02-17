@@ -223,6 +223,6 @@ npm run dev
 
 ## Author
 
-**Saif Ali**  
+**Munawwar Ali**  
 Backend Developer  
 [GitHub](https://github.com/munawwar-ali)
