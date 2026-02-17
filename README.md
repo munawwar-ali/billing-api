@@ -200,9 +200,10 @@ npm run dev
 
 ---
 
+## Screenshot
 
 ### Home Page
-![Home Page](https://billing-dashboard-n4j6.vercel.app)
+![Home Page](/homepage.png)
 
 ### Dashboard
 - Usage progress bar with real-time updates
